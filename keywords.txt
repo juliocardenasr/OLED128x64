@@ -5,18 +5,18 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-OLED128x64   KEYWORD1	OLED128x64
+OLED128x64	KEYWORD1	OLED128x64
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-initOLED     KEYWORD2
-sendCharXY   KEYWORD2
-sendStrXY    KEYWORD2
-sendStringXY KEYWORD2
-clearDisplay KEYWORD2
-displayOn    KEYWORD2
-displayOff   KEYWORD2
-resetDisplay KEYWORD2
+initOLED	KEYWORD2
+sendCharXY	KEYWORD2
+sendStrXY	KEYWORD2
+sendStringXY	KEYWORD2
+clearDisplay	KEYWORD2
+displayOn	KEYWORD2
+displayOff	KEYWORD2
+resetDisplay	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
